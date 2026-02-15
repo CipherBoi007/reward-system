@@ -177,20 +177,24 @@ ER - DIAGRAM :
 └─────────────────┘─────────────────────────┘
 ```
 ### Prerequisites
-
+```
 👉 Java 17 LTS or higher
 👉 PostgreSQL 17 or higher
 👉 Maven 3.9+
 👉 Git (optional)
 👉 Postman (for API testing)
-
+```
+---
 ### Installation 
 
 Clone the Repository :
+```
 git clone https://github.com/CipherBoi007/Reward-System.git
 cd Reward-System
-
+```
+---
 Configure Database :
+```
 Powershell -
 $env:DB_USERNAME="postgres"
 $env:DB_PASSWORD="your_password"
@@ -200,22 +204,26 @@ set DB_PASSWORD=your_password
 Linux/Mac -
 export DB_USERNAME=postgres
 export DB_PASSWORD=your_password
-
+```
+---
 ### Build the Application
-mvn clean install
-
+```mvn clean install```
+---
 ### Running the Application
-
+```
 Development Mode : mvn spring-boot:run
 Production Mode : java -jar target/reward-system-0.0.1-SNAPSHOT.jar
 With Profile : java -jar -Dspring.profiles.active=prod target/reward-system-0.0.1-SNAPSHOT.jar
-
+```
+---
 Note :
 
 On first run, the application automatically creates:
-
+```
 ⭐ Customer 1: John Doe (500 points)
 ⭐ Customer 2: Jane Smith (750 points)
+```
+---
 
  ### Project Structure
  ```
