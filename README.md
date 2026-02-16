@@ -176,7 +176,7 @@ ER - DIAGRAM :
 │ transaction_date │                         │
 └─────────────────┘─────────────────────────┘
 ```
-### Prerequisites
+## ⛏️ Prerequisites
 ```
 👉 Java 17 LTS or higher
 👉 PostgreSQL 17 or higher
@@ -185,7 +185,7 @@ ER - DIAGRAM :
 👉 Postman (for API testing)
 ```
 ---
-### Installation 
+##  💾Installation 
 
 Clone the Repository :
 ```
@@ -206,7 +206,7 @@ export DB_USERNAME=postgres
 export DB_PASSWORD=your_password
 ```
 ---
-### Build the Application
+## ⚒️ Build the Application
 ```mvn clean install```
 ---
 ### Running the Application
@@ -225,7 +225,7 @@ On first run, the application automatically creates:
 ```
 ---
 
- ### Project Structure
+ ## 💽 Project Structure
  ```
  Reward-Sysytem/
 ├── src/
