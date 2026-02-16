@@ -1,4 +1,3 @@
-// src/main/java/com/reward/dto/request/PurchaseRequest.java
 package com.reward.dto.request;
 
 import jakarta.validation.constraints.DecimalMin;

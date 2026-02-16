@@ -1,4 +1,3 @@
-// src/main/java/com/reward/dto/response/HistoryResponse.java
 package com.reward.dto.response;
 
 import lombok.AllArgsConstructor;

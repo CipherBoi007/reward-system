@@ -1,4 +1,3 @@
-// src/main/java/com/reward/exception/ResourceNotFoundException.java
 package com.reward.exception;
 
 public class ResourceNotFoundException extends RuntimeException {

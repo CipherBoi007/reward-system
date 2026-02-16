@@ -1,4 +1,3 @@
-// src/main/java/com/reward/exception/ErrorResponse.java
 package com.reward.exception;
 
 import com.fasterxml.jackson.annotation.JsonFormat;

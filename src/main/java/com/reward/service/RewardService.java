@@ -1,4 +1,3 @@
-// src/main/java/com/reward/service/RewardService.java
 package com.reward.service;
 
 import com.reward.dto.request.PurchaseRequest;

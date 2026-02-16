@@ -1,4 +1,3 @@
-// src/main/java/com/reward/config/DataInitializer.java
 package com.reward.config;
 
 import com.reward.entity.Customer;

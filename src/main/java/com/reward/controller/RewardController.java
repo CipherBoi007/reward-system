@@ -1,4 +1,3 @@
-// src/main/java/com/reward/controller/RewardController.java
 package com.reward.controller;
 
 import com.reward.dto.request.PurchaseRequest;

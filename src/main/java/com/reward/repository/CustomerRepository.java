@@ -1,4 +1,3 @@
-// src/main/java/com/reward/repository/CustomerRepository.java
 package com.reward.repository;
 
 import com.reward.entity.Customer;

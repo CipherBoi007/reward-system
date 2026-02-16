@@ -1,4 +1,3 @@
-// src/main/java/com/reward/dto/response/RewardResponse.java
 package com.reward.dto.response;
 
 import lombok.AllArgsConstructor;

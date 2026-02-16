@@ -1,4 +1,3 @@
-// src/main/java/com/reward/exception/GlobalExceptionHandler.java
 package com.reward.exception;
 
 import jakarta.validation.ConstraintViolationException;

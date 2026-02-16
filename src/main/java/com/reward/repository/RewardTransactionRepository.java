@@ -1,4 +1,3 @@
-// src/main/java/com/reward/repository/RewardTransactionRepository.java
 package com.reward.repository;
 
 import com.reward.entity.RewardTransaction;
